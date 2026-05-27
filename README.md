@@ -156,7 +156,7 @@ terraform destroy
 
 ## Credits
 
-Built on top of [W7 starter app `studybot`](https://github.com/anthropic/xbrain-learners-w7-starter) (FastAPI + adapter pattern).
-UI is plain HTML+JS — no React build step. Indigo→Amber rebrand to match team identity.
+Built from the W7 StudyBot starter app provided in the course materials, then customized for the XOps-Study EduTech capstone.
+UI is plain HTML+JS — no React build step.
 
 Sample data: Wikipedia Simple English (CC-BY-SA 4.0) — see [`app/sample_data/SOURCES.md`](app/sample_data/SOURCES.md).
