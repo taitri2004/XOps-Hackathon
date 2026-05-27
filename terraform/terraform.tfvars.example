@@ -1,0 +1,9 @@
+team  = "G3"
+owner = "taitri"
+
+# Set AFTER creating Bedrock KB in Console (Step 2 in bedrock.tf comment)
+bedrock_kb_id = ""
+
+# Default model — override if you benchmark another (document in Evidence Pack §6.5)
+# bedrock_model_id   = "anthropic.claude-3-5-haiku-20241022-v1:0"
+# embedding_model_id = "amazon.titan-embed-text-v2:0"
